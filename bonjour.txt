@@ -1,0 +1,6 @@
+Nom        : Tabit benslimane
+Prénom     : Yousra
+L'age      : 21
+Compétence : - word
+             - excel
+             - travail en équipe 
